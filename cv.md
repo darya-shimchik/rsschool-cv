@@ -1,5 +1,5 @@
 # Shimchik Darya
-![Portrait](img/Shimchik_Darya)
+![Portrait](Shimchik_Darya.jpg)
 
 
 ### Contact info:
