@@ -1,5 +1,5 @@
 # Shimchik Darya
-![Portrait](/rsschool-cv/Shimchik_Darya.jpg)
+![Portrait](Shimchik_Darya.jpg)
 
 
 ### Contact info:
