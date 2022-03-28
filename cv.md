@@ -1,5 +1,5 @@
 # Shimchik Darya
-![Portrait](Shimchik_Darya.jpg)
+![Portrait](/rsschool-cv/Shimchik_Darya.jpg)
 
 
 ### Contact info:
@@ -28,7 +28,7 @@ __Strength:__ self-discipline, teamwork, individual approach, soft skills
 ### Education:
 BSU, Philological Faculty
 English Philology
-2022
+_2022_
 *******
 ### Languages:
 * Russian: Native
