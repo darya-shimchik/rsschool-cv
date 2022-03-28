@@ -27,7 +27,11 @@ __Strength:__ self-discipline, teamwork, individual approach, soft skills
 *******
 ### Education:
 BSU, Philological Faculty
+
+
 English Philology
+
+
 _2022_
 *******
 ### Languages:
